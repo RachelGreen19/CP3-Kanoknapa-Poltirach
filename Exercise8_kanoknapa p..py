@@ -27,7 +27,7 @@ if usernameInput and passwordInput == "admin":
         print("total =",120*amountInput)
     if customerSelected == "5":
         amountInput = int(input("amount = "))
-        print("Mango = ", amountInput)
+        print("Mango x ", amountInput)
         print("total =",50*amountInput)
     print("-----------Thank you------------")
 else:
