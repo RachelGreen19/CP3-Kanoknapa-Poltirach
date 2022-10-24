@@ -20,15 +20,15 @@ if usernameInput and passwordInput == "admin":
     if customerSelected == "3":
         amountInput = int(input("amount = "))
         print("Kiwi x ", amountInput)
-        print("total =",30*amountInput)
+        print("total =", 30*amountInput)
     if customerSelected == "4":
         amountInput = int(input("amount = "))
         print("Melon x ", amountInput)
-        print("total =",120*amountInput)
+        print("total =", 120*amountInput)
     if customerSelected == "5":
         amountInput = int(input("amount = "))
         print("Mango x ", amountInput)
-        print("total =",50*amountInput)
+        print("total =", 50*amountInput, "TBH")
     print("-----------Thank you------------")
 else:
     print("Try again")
