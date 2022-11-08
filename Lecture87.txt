@@ -1,0 +1,5 @@
+name,movie,pet
+Trixie,Mean Girl,Bird
+Katya,Dune,Bug
+Tako,Squid Game,Plangton
+Kim Possible,007,Rat
